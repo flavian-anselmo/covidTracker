@@ -6,4 +6,4 @@ Corona virus tracker.
 
 This project visualizes corona virus stats.
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
+![Finished App](https://public-media.driftvideo.com/videos-gifs/DRIFT-VIDEO-2477027-2558592-1620162844.gif)
